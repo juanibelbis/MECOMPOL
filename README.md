@@ -8,10 +8,11 @@ Clase del 13 de septiembre de 2019. Ciudad de Buenos Aires. ALICE - EPCAustral
 ## Código utilizado
 
 ## Corpus
+[#YOVOTOMM](https://drive.google.com/file/d/1bVqQ7vGj9vsqp20Lgw0D-p6L0QAikFuK/view?usp=sharing)
 
 ## Ejemplos
 
-[ColumnistOS]( qe )  
+[ColumnistOS](http://economiafeminita.com/las-mujeres-firman-solo-el-15-de-las-notas-de-opinion-en-los-medios-argentinos/)  
 [Elecciones Argentina 2019 - FIUBA](http://elecciones2019.fi.uba.ar)
 
 ## Bibliografía
