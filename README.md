@@ -11,7 +11,7 @@ Clase del 13 de septiembre de 2019. Ciudad de Buenos Aires. ALICE - EPCAustral
 
 ## Ejemplos
 
-[ColumnistOS](http://economiafeminita.com/las-mujeres-firman-solo-el-15-de-las-notas-de-opinion-en-los-medios-argentinos/)
+[ColumnistOS](http://economiafeminita.com/las-mujeres-firman-solo-el-15-de-las-notas-de-opinion-en-los-medios-argentinos/)  
 [Elecciones Argentina 2019 - FIUBA](elecciones2019.fi.uba.ar)
 
 ## Bibliografía
