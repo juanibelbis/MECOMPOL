@@ -5,6 +5,8 @@ Clase del 13 de septiembre de 2019. Ciudad de Buenos Aires. ALICE - EPCAustral
 
 [Juan Ignacio Belbis](http://twitter.com/juanibelbis)  
 
+## [Presentación utilizada](https://drive.google.com/file/d/1GWXOPwI-h4dGcLodRQAmzcbpLCvDZP0w/view?usp=sharing)
+
 ## Código utilizado
 
 ## Corpus
