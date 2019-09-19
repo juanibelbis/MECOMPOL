@@ -11,9 +11,14 @@ Clase del 13 de septiembre de 2019. Ciudad de Buenos Aires. ALICE - EPCAustral
 [#YOVOTOMM](https://drive.google.com/file/d/1bVqQ7vGj9vsqp20Lgw0D-p6L0QAikFuK/view?usp=sharing)
 
 ## Casos
+Trump
+- https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/  
+- https://fivethirtyeight.com/features/never-tweet-mr-president/  
 
-https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/  
-https://fivethirtyeight.com/features/never-tweet-mr-president/  
+Twitplomacy
+
+Gobernautas
+
 
 ### Usando R para analizar tuits  
 https://rpubs.com/HAVB/rtweet  
