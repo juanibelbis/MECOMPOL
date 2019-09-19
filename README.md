@@ -17,7 +17,17 @@ Clase del 13 de septiembre de 2019. Ciudad de Buenos Aires. ALICE - EPCAustral
 https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/  
 https://fivethirtyeight.com/features/never-tweet-mr-president/  
 
+Usando R para analizar tuits  
+https://rpubs.com/HAVB/rtweet  
+https://hackernoon.com/text-processing-and-sentiment-analysis-of-twitter-data-22ff5e51e14c  
+https://d4tagirl.com/2018/01/does-the-twitter-ratio-apply-to-the-rstats-community  
+https://medium.com/@rohitnair_94843/analysis-of-twitter-data-using-r-part-3-sentiment-analysis-53d0e5359cb8  
+https://medium.com/the-artificial-impostor/analyzing-tweets-with-r-92ff2ef990c6  
+https://blog.revolutionanalytics.com/2016/01/twitter-sentiment.html  
 
+
+Usando R para capturar contenidos vía RSS  
+https://hernanescu.github.io/2019/01/scraping-media/
 
 
 ## Ejemplos
