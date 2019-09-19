@@ -7,8 +7,6 @@ Clase del 13 de septiembre de 2019. Ciudad de Buenos Aires. ALICE - EPCAustral
 
 ## [Presentación utilizada](https://drive.google.com/file/d/1GWXOPwI-h4dGcLodRQAmzcbpLCvDZP0w/view?usp=sharing)
 
-## Código utilizado
-
 ## Corpus
 [#YOVOTOMM](https://drive.google.com/file/d/1bVqQ7vGj9vsqp20Lgw0D-p6L0QAikFuK/view?usp=sharing)
 
