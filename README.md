@@ -27,6 +27,7 @@ El paquete utilizado: [rtweet](https://rtweet.info)
 Documentación:
 - [Guía de análisis de tuits como piezas de contenido](https://docs.google.com/document/d/1257LzWGC0OAQmZWA-3V2MrNwlR9AxN2W2pu8QMC1r1g/edit?usp=sharing)
 - [Documentación sobre los campos de un tuit](https://docs.google.com/spreadsheets/d/1U2F5i6PlrY9Iu07_tv3XRuf-1LDSTkQfeDkmo4FpPV0/edit?usp=sharing)
+- [R Graph Gallery](https://www.r-graph-gallery.com/)
 
 Y aquí algunos ejemplos de que se puede hacer:
 - https://rpubs.com/HAVB/rtweet  
@@ -53,3 +54,4 @@ Franco Moretti - Distant Reading
 Matthew Jockers - Macroanalysis  
 Lev Manovich - El lenguaje en los nuevos medios de comunicación  
 Ernesto Calvo - La anatomía política de Twitter en Argentina  
+Pablo Fernández (Chequeado) - [El mundo secreto de los bots y los trolls… (y cómo esos “ejércitos” influyen en la política)](https://www.chequeado.com/investigacion/el-mundo-secreto-de-los-bots-y-los-trolls-y-como-esos-ejercitos-influyen-en-la-politica/)
