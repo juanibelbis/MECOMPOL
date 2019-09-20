@@ -15,18 +15,26 @@ Trump
 - https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/  
 - https://fivethirtyeight.com/features/never-tweet-mr-president/  
 
-Twitplomacy
+[Twitplomacy](https://twiplomacy.com/)
 
-Gobernautas
+[Gobernautas](https://publications.iadb.org/publications/spanish/document/El-gobernauta-latinoamericano-Estudio-del-perfil-de-los-gobernantes-latinoamericanos-en-redes-sociales.pdf)
 
 
 ### Usando R para analizar tuits  
-https://rpubs.com/HAVB/rtweet  
-https://hackernoon.com/text-processing-and-sentiment-analysis-of-twitter-data-22ff5e51e14c  
-https://d4tagirl.com/2018/01/does-the-twitter-ratio-apply-to-the-rstats-community  
-https://medium.com/@rohitnair_94843/analysis-of-twitter-data-using-r-part-3-sentiment-analysis-53d0e5359cb8  
-https://medium.com/the-artificial-impostor/analyzing-tweets-with-r-92ff2ef990c6  
-https://blog.revolutionanalytics.com/2016/01/twitter-sentiment.html  
+
+El paquete utilizado: [rtweet](https://rtweet.info)  
+
+Documentación:
+- [Guía de análisis de tuits como piezas de contenido](https://docs.google.com/document/d/1257LzWGC0OAQmZWA-3V2MrNwlR9AxN2W2pu8QMC1r1g/edit?usp=sharing)
+- [Documentación sobre los campos de un tuit](https://docs.google.com/spreadsheets/d/1U2F5i6PlrY9Iu07_tv3XRuf-1LDSTkQfeDkmo4FpPV0/edit?usp=sharing)
+
+Y aquí algunos ejemplos de que se puede hacer:
+- https://rpubs.com/HAVB/rtweet  
+- https://hackernoon.com/text-processing-and-sentiment-analysis-of-twitter-data-22ff5e51e14c  
+- https://d4tagirl.com/2018/01/does-the-twitter-ratio-apply-to-the-rstats-community  
+- https://medium.com/@rohitnair_94843/analysis-of-twitter-data-using-r-part-3-sentiment-analysis-53d0e5359cb8  
+- https://medium.com/the-artificial-impostor/analyzing-tweets-with-r-92ff2ef990c6  
+- https://blog.revolutionanalytics.com/2016/01/twitter-sentiment.html  
 
 
 ### Usando R para capturar contenidos vía RSS  
